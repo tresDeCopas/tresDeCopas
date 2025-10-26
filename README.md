@@ -1,0 +1,3 @@
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MascaChapas27&hide=prs&show_icons=true&theme=chartreuse-dark&include_all_commits=true)
+
+[![Alchemy Together](https://img.itch.zone/aW1nLzE1MTc5OTc5LnBuZw==/315x250%23c/z0THjt.png)](https://mascachapas27.itch.io/alchemy-together) [![Mission 23](https://img.itch.zone/aW1nLzE0NDg2MDcyLnBuZw==/315x250%23c/BqOZ3%2B.png)](https://mascachapas27.itch.io/mission-23) [![Kanji God](https://img.itch.zone/aW1nLzE2MzY5NzMyLnBuZw==/315x250%23c/1VpFXL.png)](https://mascachapas27.itch.io/kanji-god) <a href="https://github.com/MascaChapas27/Erase-un-combate"><img src="eraseuncombate.png" alt="drawing" style="width:315px;"/></a>
